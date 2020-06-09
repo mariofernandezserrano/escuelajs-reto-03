@@ -1,13 +1,15 @@
 ## DESCRIPTION
 
 Nombre:
-Usuario Platzi:
+Mario Fernandez Serrano
 
 ## Ciudad
 - [ ] Ciudad de México
-- [ ] Bogotá
+- [x] Bogotá
+
+
 
 # Retos:
-  - [ ] Primer problema
+  - [x] Primer problema
   - [ ] Segundo problema
   - [ ] Tercer problema
